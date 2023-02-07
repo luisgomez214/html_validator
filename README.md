@@ -1,4 +1,4 @@
-# HTML Validation with Stacks
+# HTMLs Validation with Stacks
 [![](https://github.com/luisgomez214/html_validator/workflows/tests/badge.svg)](https://github.com/luisgomez214/html_validator/actions?query=workflow%3Atests)
 [![](https://github.com/luisgomez214/html_validator/workflows/extra_credit/badge.svg)](https://github.com/luisgomez214/html_validator/actions?query=workflow%3Atests)
 
