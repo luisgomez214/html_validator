@@ -55,5 +55,5 @@ def _extract_tags(html):
     >>> _extract_tags('Python <strong>rocks</strong>!')
     ['<strong>', '</strong>']
     '''
-    extracted_tags = re.findall('<[\/\/a-z0-9]+>', html)
+    extracted_tags = re.findall('<[\/a-z0-9]+>', html)
     return extracted_tags
